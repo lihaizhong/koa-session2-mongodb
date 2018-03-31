@@ -1,0 +1,23 @@
+{
+  "name": "koa-session2-mongo3",
+  "version": "0.1.0",
+  "description": "session持久化 mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lihaizhong/koa-session2-mongo.git"
+  },
+  "keywords": [
+    "session",
+    "mongodb"
+  ],
+  "author": "sky <854323752@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lihaizhong/koa-session2-mongo/issues"
+  },
+  "homepage": "https://github.com/lihaizhong/koa-session2-mongo#readme"
+}
