@@ -5,6 +5,7 @@ mongodb store for koa-session2
 ## Require
 
 Node > 7.x
+
 MongoDB > 3.x
 
 Install

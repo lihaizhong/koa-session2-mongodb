@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lihaizhong/koa-session2-mongo.git"
+    "url": "git+https://github.com/lihaizhong/koa-session2-mongo3.git"
   },
   "keywords": [
     "session",
@@ -17,7 +17,7 @@
   "author": "sky <854323752@qq.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lihaizhong/koa-session2-mongo/issues"
+    "url": "https://github.com/lihaizhong/koa-session2-mongo3/issues"
   },
-  "homepage": "https://github.com/lihaizhong/koa-session2-mongo#readme"
+  "homepage": "https://github.com/lihaizhong/koa-session2-mongo3#readme"
 }
