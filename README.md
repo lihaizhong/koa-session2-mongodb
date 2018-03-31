@@ -8,7 +8,7 @@ Node > 7.x
 
 MongoDB > 3.x
 
-Install
+## Install
 
 ```javascript
 npm install koa-session2-mongo3 -S
