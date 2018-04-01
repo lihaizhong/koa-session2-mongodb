@@ -1,4 +1,4 @@
-# koa-session2-mongo3
+# koa-session2-mongodb
 
 mongodb store for koa-session2
 
@@ -11,9 +11,9 @@ MongoDB > 3.x
 ## Install
 
 ```javascript
-npm install koa-session2-mongo3 -S
+npm install koa-session2-mongodb -S
 or
-yarn add koa-session2-mongo3 -S
+yarn add koa-session2-mongodb -S
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ yarn add koa-session2-mongo3 -S
 ```javascript
 const Koa = require('koa')
 const session = require('koa-session2');
-const MongoStore = require('koa-session2-mongo3');
+const MongoStore = require('koa-session2-mongodb');
 const app = new Koa();
 app.use(session({
     store: new MongoStore({
